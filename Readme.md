@@ -45,7 +45,7 @@ The analysis was performed using Python with libraries including pandas, matplot
 *   **Skills Demonstrated:** Distribution analysis, histogram creation.
 
 #### Box Plot of Prices by Brand
-![Price Distribution by Brand](price_distribution_by_brand.png)
+![Price Distribution by Brand](/images/image_2_2.png)
 
 *   **Purpose:** This box plot allows us to see how price varies between different brands.
 *   **Insight:**  This box plot shows us that Dell and HP have a similar range of prices. We can also see that HP has some higher outliers, showing they have higher prices.
@@ -54,14 +54,14 @@ The analysis was performed using Python with libraries including pandas, matplot
 ### 2. Price vs. Features
 
 #### Scatter Plot of Price vs. RAM
-![Price vs. ram](price_vs_ram.png)
+![Price vs. ram](/images/image_2_1.png)
 
 *   **Purpose:**  This scatter plot shows the relationship between laptop prices and RAM, colored by the CPU
 *   **Insight:** There is a general upward trend of price increasing as RAM increases. We can also see that intel core cpus tend to be in the higher range, and also more clustered.
 *   **Skills Demonstrated:** Correlation analysis, scatter plot creation.
 
 #### Scatter Plot of Price vs. Storage
-![Price vs. storage](price_vs_storage.png)
+![Price vs. storage](/images/image_2_2.png)
 
 *   **Purpose:**  This scatter plot shows the relationship between laptop prices and Storage, colored by the CPU.
 *   **Insight:** There is a general upward trend of price increasing as storage increases, but not as strongly as price and ram.  We can also see that intel core cpus tend to be in the higher range, and also more clustered.
@@ -70,14 +70,14 @@ The analysis was performed using Python with libraries including pandas, matplot
 ### 3. Brand Market Share
 
 #### Bar Chart of Laptop Count by Brand
-![Laptop Count by Brand](laptop_count_by_brand.png)
+![Laptop Count by Brand](/images/image_3_1.png)
 
 *   **Purpose:** This bar chart shows the number of laptop models listed for each brand in the dataset.
 *   **Insight:** HP has the highest number of laptop listings compared to Dell, indicating a larger share of the market in this dataset.
 *  **Skills Demonstrated:** Count analysis, bar plot creation
 
 #### Pie Chart of Brand Shares
-![Brand Share of Laptops](brand_share_of_laptops.png)
+![Brand Share of Laptops](/images/image_3_2.png)
 
 *   **Purpose:**  This pie chart represents the percentage share of laptop listings for each brand.
 *   **Insight:**  HP has 75% of the listings and Dell has 25%.
@@ -86,14 +86,14 @@ The analysis was performed using Python with libraries including pandas, matplot
 ### 4. Average Price by Brand and Feature
 
 #### Bar Chart of Average Price by Brand and RAM
-![Average Price by Brand and ram](average_price_by_brand_and_ram.png)
+![Average Price by Brand and ram](/images/image_4_1.png)
 
 *   **Purpose:**  This bar chart shows the average price of laptops grouped by brand and RAM.
 *   **Insight:** Laptops with more ram have a higher price, we can see that HP 16GB laptops have a higher average price than Dell.
 *   **Skills Demonstrated:** Grouped analysis, bar plot creation.
 
 #### Bar Chart of Average Price by Brand and Storage
-![Average Price by Brand and storage](average_price_by_brand_and_storage.png)
+![Average Price by Brand and storage](/images/image_4_2.png)
 
 *   **Purpose:**  This bar chart shows the average price of laptops grouped by brand and Storage.
 *   **Insight:** Laptops with more storage have a higher price, we can see that HP 1TB laptops have a higher average price than Dell.
