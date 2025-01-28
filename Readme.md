@@ -99,24 +99,17 @@ The analysis was performed using Python with libraries including pandas, matplot
 *   **Insight:** Laptops with more storage have a higher price, we can see that HP 1TB laptops have a higher average price than Dell.
 *   **Skills Demonstrated:** Grouped analysis, bar plot creation.
 
-#### Heatmap of Average Price by RAM and Storage
-![Average Price by RAM and Storage](average_price_by_ram_and_storage.png)
-
-*   **Purpose:** This heatmap shows the average price of laptops grouped by ram and storage.
-*   **Insight:** It is clearly seen that laptops with more ram and storage have a higher price, also a general trend is observed that price tends to rise more with increase in RAM compared to increase in storage.
-*   **Skills Demonstrated:** Bivariate analysis, heatmap creation, feature engineering.
-
 ### 5. Operating System Analysis
 
 #### Bar Chart of Laptop Count by Operating System
-![Laptop Count by Operating System](laptop_count_by_operating_system.png)
+![Laptop Count by Operating System](/images/image_5_1.png)
 
 *   **Purpose:** This bar chart displays the count of laptops for each operating system in our dataset.
 *   **Insight:** We can see that Windows 11 Home is the most commonly used operating system.
 *   **Skills Demonstrated:** Count analysis, bar plot creation
 
 #### Pie Chart of Operating System Shares
-![Operating System Share of Laptops](operating_system_share_of_laptops.png)
+![Operating System Share of Laptops](/images/image_5_2.png)
 
 *   **Purpose:** This pie chart displays the percentage share of operating system for each laptop in our dataset.
 *   **Insight:** We can see that Windows 11 Home has an 86% share in the dataset
@@ -125,14 +118,14 @@ The analysis was performed using Python with libraries including pandas, matplot
 ### 6. Rating Analysis
 
 #### Box Plot of Rating Distribution by Brand
-![Rating Distribution by Brand](rating_distribution_by_brand.png)
+![Rating Distribution by Brand](/images/image_6_1.png)
 
 *   **Purpose:** This box plot represents the distribution of ratings by brand.
 *   **Insight:** We can see that rating is very similar between the brands, and the ratings have a very narrow range.
 *   **Skills Demonstrated:** Distribution analysis, box plot creation
 
 #### Bar Plot of Average Rating by Brand
-![Average Rating by Brand](average_rating_by_brand.png)
+![Average Rating by Brand](/images/image_6_2.png)
 
 *   **Purpose:** This bar plot shows the average ratings by each brand
 *   **Insight:** We can see that HP has a slightly higher average rating.
@@ -141,14 +134,14 @@ The analysis was performed using Python with libraries including pandas, matplot
 ### 7. Review Analysis
 
 #### Scatter Plot of Reviews vs Rating
-![Number of Reviews vs Rating](number_of_reviews_vs_rating.png)
+![Number of Reviews vs Rating](/images/image_7_1.png)
 
 *   **Purpose:** This scatter plot shows us the correlation between reviews and ratings
 *   **Insight:** Laptops with higher ratings tend to have a higher amount of reviews.
 *   **Skills Demonstrated:** Correlation analysis, scatter plot creation.
 
 #### Bar Plot of Average Reviews by Brand
-![Average Number of Reviews by Brand](average_number_of_reviews_by_brand.png)
+![Average Number of Reviews by Brand](/images/image_7_2.png)
 
 *   **Purpose:** This bar plot displays the average number of reviews for each brand
 *   **Insight:** HP laptops tend to have a higher average amount of reviews.
@@ -156,14 +149,14 @@ The analysis was performed using Python with libraries including pandas, matplot
 
 ### 8. CPU Analysis
 #### Bar Chart of Laptop Count by CPU
-![Laptop Count by CPU](laptop_count_by_cpu.png)
+![Laptop Count by CPU](/images/image_8_1.png)
 
 *   **Purpose:** This bar chart displays the count of each CPU in the dataset.
 *   **Insight:** The Intel core i5 is the most used cpu.
 *   **Skills Demonstrated:** Count analysis, bar plot creation
 
 #### Bar Chart of Average Price by CPU
-![Average Price by CPU](average_price_by_cpu.png)
+![Average Price by CPU](/images/image_8_2.png)
 
 *   **Purpose:** This bar chart shows the average price of laptops with each CPU type.
 *   **Insight:** Core i5 and Core i7 cpus tend to have higher price compared to other CPUs.
@@ -171,7 +164,7 @@ The analysis was performed using Python with libraries including pandas, matplot
 
 ## Key Insights
 
-*   **Price:** Most laptops are priced between 30,000 to 60,000, however, there are some outliers in higher and lower prices.
+*   **Price:** Most laptops are priced between 300 $ to 600 $ however, there are some outliers in higher and lower prices.
 *   **Features:** Both RAM and storage are positively correlated with price, RAM slightly more than Storage, laptops with intel cpus tend to be costlier.
 *   **Market:** HP has more listings and higher brand share than Dell.
 *   **Operating System:** Windows 11 Home is the most used OS in the dataset.
@@ -189,6 +182,5 @@ This project demonstrates effective data analysis and visualization skills, usin
 
 ## Contact
 
-[Your Name]
-[Your Email]
-[Link to your LinkedIn, GitHub, etc.]
+Yusufbek
+yusufbekmurodov1210@gmail.com
