@@ -45,7 +45,7 @@ The analysis was performed using Python with libraries including pandas, matplot
 *   **Skills Demonstrated:** Distribution analysis, histogram creation.
 
 #### Box Plot of Prices by Brand
-![Price Distribution by Brand](/images/image_2_2.png)
+![Price Distribution by Brand](/images/image_1_2.png)
 
 *   **Purpose:** This box plot allows us to see how price varies between different brands.
 *   **Insight:**  This box plot shows us that Dell and HP have a similar range of prices. We can also see that HP has some higher outliers, showing they have higher prices.
