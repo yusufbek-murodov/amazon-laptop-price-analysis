@@ -182,5 +182,5 @@ This project demonstrates effective data analysis and visualization skills, usin
 
 ## Contact
 
-Yusufbek
-yusufbekmurodov1210@gmail.com
+**Name:** Yusufbek Murodov
+**Email:** yusufbekmurodov1210@gmail.com
