@@ -41,7 +41,7 @@ The analysis was performed using Python with libraries including pandas, matplot
 ![Distribution of Laptop Prices](/images/image_1_1.png)
 
 *   **Purpose:** This histogram visualizes the distribution of laptop prices within the dataset. It allows us to observe the concentration of prices across different ranges.
-*   **Insight:**  The distribution of laptop prices is right-skewed, with the majority falling between 30,000 to 60,000. There are also some higher-end laptops priced at 100,000 and above, indicating some outliers in the price.
+*   **Insight:**  The distribution of laptop prices is right-skewed, with the majority falling between 300 $ to 600 $. There are also some higher-end laptops priced at 1,000 $ and above, indicating some outliers in the price.
 *   **Skills Demonstrated:** Distribution analysis, histogram creation.
 
 #### Box Plot of Prices by Brand
