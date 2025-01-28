@@ -1,0 +1,529 @@
+brand_name,model_name,screen_size,ram,storage,cpu,operating_system,price,rating,reviews,graphics,card_description
+HP,15s-fq5007TU,39.6 Centimetres,8 GB,512 GB,Core i3,Windows 11 Home,"36,990",4.0,941 ratings,Not available,Integrated
+Dell,Vostro,15.6 Inches,8 GB,512 GB,Core i3 Family,Windows 11 Home,"33,990",3.7,725 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"52,990",3.7,108 ratings,Not available,Integrated
+HP,eq2100 series,39.6 Centimetres,16 GB,512 GB,AMD Ryzen 5 5500U,Windows 11 Home,"41,990",4.1,"1,676 ratings",Not available,Integrated
+Dell,Vostro,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"43,990",3.5,441 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,16 GB,512 GB,Core i5,Windows 11 Home,"55,780",4.1,675 ratings,Not available,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Ryzen 3,Windows 11 Home,"31,490",4.1,"1,391 ratings",Not available,Integrated
+HP,15s-fy5011TU,15.6 Inches,8 GB,512 GB,Intel Core i3,Windows 11 Home,"37,490",4.1,"1,950 ratings",Not available,Integrated
+HP,16-e0350ax,39.6 Centimetres,16 GB,512 GB,AMD Ryzen 5 5600X,Windows 11 Home,"60,990",4.2,167 ratings,Not available,Dedicated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Core i3,Windows 11 Home,"39,490",4.0,88 ratings,Not available,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Intel Core i5,Windows 11 Home,"48,990",3.9,49 ratings,Not available,Integrated
+HP,255 G9,15.6 Inches,4 GB,256 GB,Athlon Silver 3050U,Windows 11 Pro,"21,830",5.0,1 rating,Not available,Integrated
+Dell,Inspiron 3535,15.6 Inches,8 GB,Null,Ryzen 3,Windows 11 Home,"28,990",3.0,4 ratings,Not available,Integrated
+HP,HP Laptop,15.6 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"50,999",3.7,192 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,16 GB,512 GB,Ryzen 7,Windows 11 Home,"46,990",3.9,167 ratings,Not available,Integrated
+HP,HP Laptop,35.6 Centimetres,8 GB,512 GB,Core i3,Windows 11 Home,"36,990",3.9,246 ratings,Not available,Integrated
+HP,HP Pavilion Laptop,14 Inches,16 GB,Null,Core i5,Windows 11 Home,"61,990",4.1,771 ratings,Intel UHD Graphics,Integrated
+HP,15s-fq5190TU,39.6 Centimetres,16 GB,512 GB,Core i7,Windows 11 Home,"64,990",4.0,232 ratings,Not available,Integrated
+HP,15-fa1227tx,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"60,990",4.0,48 ratings,Not available,Dedicated
+Dell,Dell Laptop,15.6 Inches,16 GB,1 TB,Core i5,Windows 11 Home,"72,990",4.0,714 ratings,Not available,Dedicated
+HP,HP Laptop 15s-fr5010TU,39.6 Centimetres,8 GB,512 GB,Core i5,Windows 11 Home,"46,990",3.6,11 ratings,Not available,Integrated
+Dell,Inspiron 3530,15.6 Inches,16 GB,Null,Core i5,Windows 11 Home,"55,990",3.5,23 ratings,Not available,Integrated
+Dell,Inspiron 3520,15.6 Inches,8 GB,Null,Core i3,Windows 11 Home,"34,499",1.0,1 rating,Not available,Integrated
+Dell,Inspiron 3525,16 Inches,8 GB,Null,Ryzen 5,Windows 11 Home,"35,990",3.7,4 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Ryzen 3,Windows 11 Home,"31,890",4.0,54 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"66,990",2.9,6 ratings,Not available,Integrated
+Dell,Latitue 5490,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.1,702 ratings,Not available,Integrated
+Dell,Vostro 3430,14 Inches,8 GB,Null,Core i3,Windows 11 Home,"37,990",4.1,31 ratings,Not available,Integrated
+HP,15-fa1317X,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"83,990",3.9,28 ratings,Not available,Dedicated
+Dell,Vostro,15.6 Inches,16 GB,80 TB,Core i5,Windows 11 Home,"52,490",3.5,31 ratings,Not available,Integrated
+HP,14-ew0116TU,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"68,990",3.9,18 ratings,Not available,Integrated
+Dell,5490-cr,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.6,494 ratings,Not available,Integrated
+HP,15s-fq3066TU,39.6 Centimetres,8 GB,512 GB,Celeron N,Windows 11 Home,"27,990",3.1,61 ratings,Not available,Integrated
+Dell,Vostro,14 Inches,8 GB,Null,Core i5,Windows 11 Home,"45,990",3.7,96 ratings,Intel,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Ryzen 3,Windows 11 Home,"33,990",4.3,31 ratings,Not available,Integrated
+HP,15-fa1319X,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"79,990",4.0,42 ratings,Not available,Dedicated
+HP,15-fa1307TX,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"67,990",3.4,29 ratings,Not available,Dedicated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"56,990",3.6,13 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Core i3,Windows 11 Home,"35,490",3.4,41 ratings,Not available,Integrated
+Dell,Inspiron 3520,15.6 Inches,16 GB,16 GB,Core i5,Windows 11 Home,"49,750",3.8,38 ratings,Not available,Integrated
+HP,Laptop,40.9,16 GB,1 TB,Ryzen 7,Windows 11 Home,"1,11,990",4.0,116 ratings,Not available,Dedicated
+HP,HP,15.6 Inches,8 GB,1 TB,Intel Core i5,Windows 11 Home,"50,990",3.0,6 ratings,Not available,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"47,999",4.0,101 ratings,Not available,Integrated
+HP,15s-fy5010TU,15.6 Inches,8 GB,256 GB,Intel Core i3,Windows 11 Home,"35,990",Null,Null,Not available,Integrated
+HP,15-fa1333tx,39.6 Centimetres,16 GB,1 TB,Intel Core i7,Windows 11 Home,"1,04,990",5.0,2 ratings,Not available,Dedicated
+HP,HP Laptop,14 Inches,8 GB,512 GB,Intel Core i3,Windows 11 Home,"36,850",4.1,"1,170 ratings",Not available,Integrated
+HP,HP Pavilion,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"62,490",4.3,"2,009 ratings",Not available,Integrated
+HP,Laptop,39.6 Centimetres,16 GB,512 GB,Core i7,Windows 11 Home,"89,990",4.1,7 ratings,Not available,Dedicated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Ryzen 3,Windows 11 Home,"31,890",4.0,54 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"66,990",2.9,6 ratings,Not available,Integrated
+Dell,Latitue 5490,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.1,702 ratings,Not available,Integrated
+Dell,Vostro 3430,14 Inches,8 GB,Null,Core i3,Windows 11 Home,"37,990",4.1,31 ratings,Not available,Integrated
+HP,15-fa1317X,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"83,990",3.9,28 ratings,Not available,Dedicated
+Dell,Vostro,15.6 Inches,16 GB,80 TB,Core i5,Windows 11 Home,"52,490",3.5,31 ratings,Not available,Integrated
+HP,14-ew0116TU,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"68,990",3.9,18 ratings,Not available,Integrated
+Dell,5490-cr,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.6,494 ratings,Not available,Integrated
+HP,15s-fq3066TU,39.6 Centimetres,8 GB,512 GB,Celeron N,Windows 11 Home,"27,990",3.1,61 ratings,Not available,Integrated
+Dell,Vostro,14 Inches,8 GB,Null,Core i5,Windows 11 Home,"45,990",3.7,96 ratings,Intel,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Ryzen 3,Windows 11 Home,"33,990",4.3,31 ratings,Not available,Integrated
+HP,15-fa1319X,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"79,990",4.0,42 ratings,Not available,Dedicated
+HP,15-fa1307TX,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"67,990",3.4,29 ratings,Not available,Dedicated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"56,990",3.6,13 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Core i3,Windows 11 Home,"35,490",3.4,41 ratings,Not available,Integrated
+Dell,Inspiron 3520,15.6 Inches,16 GB,16 GB,Core i5,Windows 11 Home,"49,750",3.8,38 ratings,Not available,Integrated
+HP,Laptop,40.9,16 GB,1 TB,Ryzen 7,Windows 11 Home,"1,11,990",4.0,116 ratings,Not available,Dedicated
+HP,HP,15.6 Inches,8 GB,1 TB,Intel Core i5,Windows 11 Home,"50,990",3.0,6 ratings,Not available,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"47,999",4.0,101 ratings,Not available,Integrated
+HP,15s-fy5010TU,15.6 Inches,8 GB,256 GB,Intel Core i3,Windows 11 Home,"35,990",Null,Null,Not available,Integrated
+HP,15-fa1333tx,39.6 Centimetres,16 GB,1 TB,Intel Core i7,Windows 11 Home,"1,04,990",5.0,2 ratings,Not available,Dedicated
+HP,HP Laptop,14 Inches,8 GB,512 GB,Intel Core i3,Windows 11 Home,"36,850",4.1,"1,170 ratings",Not available,Integrated
+HP,HP Pavilion,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"62,490",4.3,"2,009 ratings",Not available,Integrated
+HP,Laptop,39.6 Centimetres,16 GB,512 GB,Core i7,Windows 11 Home,"89,990",4.1,7 ratings,Not available,Dedicated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Ryzen 3,Windows 11 Home,"31,890",4.0,54 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"66,990",2.9,6 ratings,Not available,Integrated
+Dell,Latitue 5490,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.1,702 ratings,Not available,Integrated
+Dell,Vostro 3430,14 Inches,8 GB,Null,Core i3,Windows 11 Home,"37,990",4.1,31 ratings,Not available,Integrated
+HP,15-fa1317X,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"83,990",3.9,28 ratings,Not available,Dedicated
+Dell,Vostro,15.6 Inches,16 GB,80 TB,Core i5,Windows 11 Home,"52,490",3.5,31 ratings,Not available,Integrated
+HP,14-ew0116TU,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"68,990",3.9,18 ratings,Not available,Integrated
+Dell,5490-cr,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.6,494 ratings,Not available,Integrated
+HP,15s-fq3066TU,39.6 Centimetres,8 GB,512 GB,Celeron N,Windows 11 Home,"27,990",3.1,61 ratings,Not available,Integrated
+Dell,Vostro,14 Inches,8 GB,Null,Core i5,Windows 11 Home,"45,990",3.7,96 ratings,Intel,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Ryzen 3,Windows 11 Home,"33,990",4.3,31 ratings,Not available,Integrated
+HP,15-fa1319X,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"79,990",4.0,42 ratings,Not available,Dedicated
+HP,15-fa1307TX,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"67,990",3.4,29 ratings,Not available,Dedicated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"56,990",3.6,13 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Core i3,Windows 11 Home,"35,490",3.4,41 ratings,Not available,Integrated
+Dell,Inspiron 3520,15.6 Inches,16 GB,16 GB,Core i5,Windows 11 Home,"49,750",3.8,38 ratings,Not available,Integrated
+HP,Laptop,40.9,16 GB,1 TB,Ryzen 7,Windows 11 Home,"1,11,990",4.0,116 ratings,Not available,Dedicated
+HP,HP,15.6 Inches,8 GB,1 TB,Intel Core i5,Windows 11 Home,"50,990",3.0,6 ratings,Not available,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"47,999",4.0,101 ratings,Not available,Integrated
+HP,15s-fy5010TU,15.6 Inches,8 GB,256 GB,Intel Core i3,Windows 11 Home,"35,990",Null,Null,Not available,Integrated
+HP,15-fa1333tx,39.6 Centimetres,16 GB,1 TB,Intel Core i7,Windows 11 Home,"1,04,990",5.0,2 ratings,Not available,Dedicated
+HP,HP Laptop,14 Inches,8 GB,512 GB,Intel Core i3,Windows 11 Home,"36,850",4.1,"1,170 ratings",Not available,Integrated
+HP,HP Pavilion,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"62,490",4.3,"2,009 ratings",Not available,Integrated
+HP,Laptop,39.6 Centimetres,16 GB,512 GB,Core i7,Windows 11 Home,"89,990",4.1,7 ratings,Not available,Dedicated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Ryzen 3,Windows 11 Home,"31,890",4.0,54 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"66,990",2.9,6 ratings,Not available,Integrated
+Dell,Latitue 5490,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.1,702 ratings,Not available,Integrated
+Dell,Vostro 3430,14 Inches,8 GB,Null,Core i3,Windows 11 Home,"37,990",4.1,31 ratings,Not available,Integrated
+HP,15-fa1317X,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"83,990",3.9,28 ratings,Not available,Dedicated
+Dell,Vostro,15.6 Inches,16 GB,80 TB,Core i5,Windows 11 Home,"52,490",3.5,31 ratings,Not available,Integrated
+HP,14-ew0116TU,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"68,990",3.9,18 ratings,Not available,Integrated
+Dell,5490-cr,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.6,494 ratings,Not available,Integrated
+HP,15s-fq3066TU,39.6 Centimetres,8 GB,512 GB,Celeron N,Windows 11 Home,"27,990",3.1,61 ratings,Not available,Integrated
+Dell,Vostro,14 Inches,8 GB,Null,Core i5,Windows 11 Home,"45,990",3.7,96 ratings,Intel,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Ryzen 3,Windows 11 Home,"33,990",4.3,31 ratings,Not available,Integrated
+HP,15-fa1319X,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"79,990",4.0,42 ratings,Not available,Dedicated
+HP,15-fa1307TX,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"67,990",3.4,29 ratings,Not available,Dedicated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"56,990",3.6,13 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Core i3,Windows 11 Home,"35,490",3.4,41 ratings,Not available,Integrated
+Dell,Inspiron 3520,15.6 Inches,16 GB,16 GB,Core i5,Windows 11 Home,"49,750",3.8,38 ratings,Not available,Integrated
+HP,Laptop,40.9,16 GB,1 TB,Ryzen 7,Windows 11 Home,"1,11,990",4.0,116 ratings,Not available,Dedicated
+HP,HP,15.6 Inches,8 GB,1 TB,Intel Core i5,Windows 11 Home,"50,990",3.0,6 ratings,Not available,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"47,999",4.0,101 ratings,Not available,Integrated
+HP,15s-fy5010TU,15.6 Inches,8 GB,256 GB,Intel Core i3,Windows 11 Home,"35,990",Null,Null,Not available,Integrated
+HP,15-fa1333tx,39.6 Centimetres,16 GB,1 TB,Intel Core i7,Windows 11 Home,"1,04,990",5.0,2 ratings,Not available,Dedicated
+HP,HP Laptop,14 Inches,8 GB,512 GB,Intel Core i3,Windows 11 Home,"36,850",4.1,"1,170 ratings",Not available,Integrated
+HP,HP Pavilion,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"62,490",4.3,"2,009 ratings",Not available,Integrated
+HP,Laptop,39.6 Centimetres,16 GB,512 GB,Core i7,Windows 11 Home,"89,990",4.1,7 ratings,Not available,Dedicated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Ryzen 3,Windows 11 Home,"31,890",4.0,54 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"66,990",2.9,6 ratings,Not available,Integrated
+Dell,Latitue 5490,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.1,702 ratings,Not available,Integrated
+Dell,Vostro 3430,14 Inches,8 GB,Null,Core i3,Windows 11 Home,"37,990",4.1,31 ratings,Not available,Integrated
+HP,15-fa1317X,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"83,990",3.9,28 ratings,Not available,Dedicated
+Dell,Vostro,15.6 Inches,16 GB,80 TB,Core i5,Windows 11 Home,"52,490",3.5,31 ratings,Not available,Integrated
+HP,14-ew0116TU,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"68,990",3.9,18 ratings,Not available,Integrated
+Dell,5490-cr,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.6,494 ratings,Not available,Integrated
+HP,15s-fq3066TU,39.6 Centimetres,8 GB,512 GB,Celeron N,Windows 11 Home,"27,990",3.1,61 ratings,Not available,Integrated
+Dell,Vostro,14 Inches,8 GB,Null,Core i5,Windows 11 Home,"45,990",3.7,96 ratings,Intel,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Ryzen 3,Windows 11 Home,"33,990",4.3,31 ratings,Not available,Integrated
+HP,15-fa1319X,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"79,990",4.0,42 ratings,Not available,Dedicated
+HP,15-fa1307TX,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"67,990",3.4,29 ratings,Not available,Dedicated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"56,990",3.6,13 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Core i3,Windows 11 Home,"35,490",3.4,41 ratings,Not available,Integrated
+Dell,Inspiron 3520,15.6 Inches,16 GB,16 GB,Core i5,Windows 11 Home,"49,750",3.8,38 ratings,Not available,Integrated
+HP,Laptop,40.9,16 GB,1 TB,Ryzen 7,Windows 11 Home,"1,11,990",4.0,116 ratings,Not available,Dedicated
+HP,HP,15.6 Inches,8 GB,1 TB,Intel Core i5,Windows 11 Home,"50,990",3.0,6 ratings,Not available,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"47,999",4.0,101 ratings,Not available,Integrated
+HP,15s-fy5010TU,15.6 Inches,8 GB,256 GB,Intel Core i3,Windows 11 Home,"35,990",Null,Null,Not available,Integrated
+HP,15-fa1333tx,39.6 Centimetres,16 GB,1 TB,Intel Core i7,Windows 11 Home,"1,04,990",5.0,2 ratings,Not available,Dedicated
+HP,HP Laptop,14 Inches,8 GB,512 GB,Intel Core i3,Windows 11 Home,"36,850",4.1,"1,170 ratings",Not available,Integrated
+HP,HP Pavilion,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"62,490",4.3,"2,009 ratings",Not available,Integrated
+HP,Laptop,39.6 Centimetres,16 GB,512 GB,Core i7,Windows 11 Home,"89,990",4.1,7 ratings,Not available,Dedicated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Ryzen 3,Windows 11 Home,"31,890",4.0,54 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"66,990",2.9,6 ratings,Not available,Integrated
+Dell,Latitue 5490,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.1,702 ratings,Not available,Integrated
+Dell,Vostro 3430,14 Inches,8 GB,Null,Core i3,Windows 11 Home,"37,990",4.1,31 ratings,Not available,Integrated
+HP,15-fa1317X,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"83,990",3.9,28 ratings,Not available,Dedicated
+Dell,Vostro,15.6 Inches,16 GB,80 TB,Core i5,Windows 11 Home,"52,490",3.5,31 ratings,Not available,Integrated
+HP,14-ew0116TU,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"68,990",3.9,18 ratings,Not available,Integrated
+Dell,5490-cr,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.6,494 ratings,Not available,Integrated
+HP,15s-fq3066TU,39.6 Centimetres,8 GB,512 GB,Celeron N,Windows 11 Home,"27,990",3.1,61 ratings,Not available,Integrated
+Dell,Vostro,14 Inches,8 GB,Null,Core i5,Windows 11 Home,"45,990",3.7,96 ratings,Intel,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Ryzen 3,Windows 11 Home,"33,990",4.3,31 ratings,Not available,Integrated
+HP,15-fa1319X,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"79,990",4.0,42 ratings,Not available,Dedicated
+HP,15-fa1307TX,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"67,990",3.4,29 ratings,Not available,Dedicated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"56,990",3.6,13 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Core i3,Windows 11 Home,"35,490",3.4,41 ratings,Not available,Integrated
+Dell,Inspiron 3520,15.6 Inches,16 GB,16 GB,Core i5,Windows 11 Home,"49,750",3.8,38 ratings,Not available,Integrated
+HP,Laptop,40.9,16 GB,1 TB,Ryzen 7,Windows 11 Home,"1,11,990",4.0,116 ratings,Not available,Dedicated
+HP,HP,15.6 Inches,8 GB,1 TB,Intel Core i5,Windows 11 Home,"50,990",3.0,6 ratings,Not available,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"47,999",4.0,101 ratings,Not available,Integrated
+HP,15s-fy5010TU,15.6 Inches,8 GB,256 GB,Intel Core i3,Windows 11 Home,"35,990",Null,Null,Not available,Integrated
+HP,15-fa1333tx,39.6 Centimetres,16 GB,1 TB,Intel Core i7,Windows 11 Home,"1,04,990",5.0,2 ratings,Not available,Dedicated
+HP,HP Laptop,14 Inches,8 GB,512 GB,Intel Core i3,Windows 11 Home,"36,850",4.1,"1,170 ratings",Not available,Integrated
+HP,HP Pavilion,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"62,490",4.3,"2,009 ratings",Not available,Integrated
+HP,Laptop,39.6 Centimetres,16 GB,512 GB,Core i7,Windows 11 Home,"89,990",4.1,7 ratings,Not available,Dedicated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Ryzen 3,Windows 11 Home,"31,800",4.0,54 ratings,Not available,Integrated
+Dell,Latitue 5490,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.1,702 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"66,990",2.9,6 ratings,Not available,Integrated
+Dell,Vostro 3430,14 Inches,8 GB,Null,Core i3,Windows 11 Home,"37,990",4.1,31 ratings,Not available,Integrated
+HP,15-fa1317X,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"83,990",3.9,28 ratings,Not available,Dedicated
+Dell,Vostro,15.6 Inches,16 GB,80 TB,Core i5,Windows 11 Home,"52,490",3.5,31 ratings,Not available,Integrated
+HP,14-ew0116TU,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"68,990",3.9,18 ratings,Not available,Integrated
+Dell,5490-cr,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.6,494 ratings,Not available,Integrated
+HP,15s-fq3066TU,39.6 Centimetres,8 GB,512 GB,Celeron N,Windows 11 Home,"27,990",3.1,61 ratings,Not available,Integrated
+Dell,Vostro,14 Inches,8 GB,Null,Core i5,Windows 11 Home,"45,990",3.7,96 ratings,Intel,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Ryzen 3,Windows 11 Home,"33,990",4.3,31 ratings,Not available,Integrated
+HP,15-fa1319X,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"79,990",4.0,42 ratings,Not available,Dedicated
+HP,15-fa1307TX,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"67,990",3.4,29 ratings,Not available,Dedicated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"56,990",3.6,13 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Core i3,Windows 11 Home,"35,490",3.4,41 ratings,Not available,Integrated
+Dell,Inspiron 3520,15.6 Inches,16 GB,16 GB,Core i5,Windows 11 Home,"49,750",3.8,38 ratings,Not available,Integrated
+HP,Laptop,40.9,16 GB,1 TB,Ryzen 7,Windows 11 Home,"1,11,990",4.0,116 ratings,Not available,Dedicated
+HP,HP,15.6 Inches,8 GB,1 TB,Intel Core i5,Windows 11 Home,"50,990",3.0,6 ratings,Not available,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"47,999",4.0,101 ratings,Not available,Integrated
+HP,15-fa1333tx,39.6 Centimetres,16 GB,1 TB,Intel Core i7,Windows 11 Home,"1,04,990",5.0,2 ratings,Not available,Dedicated
+HP,HP Laptop,14 Inches,8 GB,512 GB,Intel Core i3,Windows 11 Home,"36,850",4.1,"1,170 ratings",Not available,Integrated
+HP,HP Pavilion,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"62,490",4.3,"2,009 ratings",Not available,Integrated
+HP,15s-fy5010TU,15.6 Inches,8 GB,256 GB,Intel Core i3,Windows 11 Home,"35,990",Null,Null,Not available,Integrated
+HP,Laptop,39.6 Centimetres,16 GB,512 GB,Core i7,Windows 11 Home,"89,990",4.1,7 ratings,Not available,Dedicated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Ryzen 3,Windows 11 Home,"31,800",4.0,54 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"66,990",2.9,6 ratings,Not available,Integrated
+Dell,Latitue 5490,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.1,702 ratings,Not available,Integrated
+Dell,Vostro 3430,14 Inches,8 GB,Null,Core i3,Windows 11 Home,"37,990",4.1,31 ratings,Not available,Integrated
+HP,15-fa1317X,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"83,990",3.9,28 ratings,Not available,Dedicated
+Dell,Vostro,15.6 Inches,16 GB,80 TB,Core i5,Windows 11 Home,"52,490",3.5,31 ratings,Not available,Integrated
+HP,14-ew0116TU,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"68,990",3.9,18 ratings,Not available,Integrated
+Dell,5490-cr,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.6,494 ratings,Not available,Integrated
+HP,15s-fq3066TU,39.6 Centimetres,8 GB,512 GB,Celeron N,Windows 11 Home,"27,990",3.1,61 ratings,Not available,Integrated
+Dell,Vostro,14 Inches,8 GB,Null,Core i5,Windows 11 Home,"45,990",3.7,96 ratings,Intel,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Ryzen 3,Windows 11 Home,"33,990",4.3,31 ratings,Not available,Integrated
+HP,15-fa1319X,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"79,990",4.0,42 ratings,Not available,Dedicated
+HP,15-fa1307TX,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"67,990",3.4,29 ratings,Not available,Dedicated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"56,990",3.6,13 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Core i3,Windows 11 Home,"35,490",3.4,41 ratings,Not available,Integrated
+Dell,Inspiron 3520,15.6 Inches,16 GB,16 GB,Core i5,Windows 11 Home,"49,750",3.8,38 ratings,Not available,Integrated
+HP,Laptop,40.9,16 GB,1 TB,Ryzen 7,Windows 11 Home,"1,11,990",4.0,116 ratings,Not available,Dedicated
+HP,HP,15.6 Inches,8 GB,1 TB,Intel Core i5,Windows 11 Home,"50,990",3.0,6 ratings,Not available,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"47,999",4.0,101 ratings,Not available,Integrated
+HP,15-fa1333tx,39.6 Centimetres,16 GB,1 TB,Intel Core i7,Windows 11 Home,"1,04,990",5.0,2 ratings,Not available,Dedicated
+HP,HP Laptop,14 Inches,8 GB,512 GB,Intel Core i3,Windows 11 Home,"36,850",4.1,"1,170 ratings",Not available,Integrated
+HP,HP Pavilion,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"62,490",4.3,"2,009 ratings",Not available,Integrated
+HP,15s-fy5010TU,15.6 Inches,8 GB,256 GB,Intel Core i3,Windows 11 Home,"35,990",Null,Null,Not available,Integrated
+HP,Laptop,39.6 Centimetres,16 GB,512 GB,Core i7,Windows 11 Home,"89,990",4.1,7 ratings,Not available,Dedicated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Ryzen 3,Windows 11 Home,"31,800",4.0,54 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"66,990",2.9,6 ratings,Not available,Integrated
+Dell,Latitue 5490,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.1,702 ratings,Not available,Integrated
+Dell,Vostro 3430,14 Inches,8 GB,Null,Core i3,Windows 11 Home,"37,990",4.1,31 ratings,Not available,Integrated
+HP,15-fa1317X,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"83,990",3.9,28 ratings,Not available,Dedicated
+Dell,Vostro,15.6 Inches,16 GB,80 TB,Core i5,Windows 11 Home,"52,490",3.5,31 ratings,Not available,Integrated
+HP,14-ew0116TU,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"68,990",3.9,18 ratings,Not available,Integrated
+Dell,5490-cr,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.6,494 ratings,Not available,Integrated
+HP,15s-fq3066TU,39.6 Centimetres,8 GB,512 GB,Celeron N,Windows 11 Home,"27,990",3.1,61 ratings,Not available,Integrated
+Dell,Vostro,14 Inches,8 GB,Null,Core i5,Windows 11 Home,"45,990",3.7,96 ratings,Intel,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Ryzen 3,Windows 11 Home,"33,990",4.3,31 ratings,Not available,Integrated
+HP,15-fa1319X,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"79,990",4.0,42 ratings,Not available,Dedicated
+HP,15-fa1307TX,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"67,990",3.4,29 ratings,Not available,Dedicated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"56,990",3.6,13 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Core i3,Windows 11 Home,"35,490",3.4,41 ratings,Not available,Integrated
+Dell,Inspiron 3520,15.6 Inches,16 GB,16 GB,Core i5,Windows 11 Home,"49,750",3.8,38 ratings,Not available,Integrated
+HP,Laptop,40.9,16 GB,1 TB,Ryzen 7,Windows 11 Home,"1,11,990",4.0,116 ratings,Not available,Dedicated
+HP,HP,15.6 Inches,8 GB,1 TB,Intel Core i5,Windows 11 Home,"50,990",3.0,6 ratings,Not available,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"47,999",4.0,101 ratings,Not available,Integrated
+HP,15-fa1333tx,39.6 Centimetres,16 GB,1 TB,Intel Core i7,Windows 11 Home,"1,04,990",5.0,2 ratings,Not available,Dedicated
+HP,HP Laptop,14 Inches,8 GB,512 GB,Intel Core i3,Windows 11 Home,"36,850",4.1,"1,170 ratings",Not available,Integrated
+HP,HP Pavilion,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"62,490",4.3,"2,009 ratings",Not available,Integrated
+HP,15s-fy5010TU,15.6 Inches,8 GB,256 GB,Intel Core i3,Windows 11 Home,"35,990",Null,Null,Not available,Integrated
+HP,Laptop,39.6 Centimetres,16 GB,512 GB,Core i7,Windows 11 Home,"89,990",4.1,7 ratings,Not available,Dedicated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Ryzen 3,Windows 11 Home,"31,800",4.0,54 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"66,990",2.9,6 ratings,Not available,Integrated
+Dell,Latitue 5490,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.1,702 ratings,Not available,Integrated
+Dell,Vostro 3430,14 Inches,8 GB,Null,Core i3,Windows 11 Home,"37,990",4.1,31 ratings,Not available,Integrated
+HP,15-fa1317X,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"83,990",3.9,28 ratings,Not available,Dedicated
+HP,14-ew0116TU,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"68,990",3.9,18 ratings,Not available,Integrated
+Dell,5490-cr,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.6,494 ratings,Not available,Integrated
+HP,15s-fq3066TU,39.6 Centimetres,8 GB,512 GB,Celeron N,Windows 11 Home,"27,990",3.1,61 ratings,Not available,Integrated
+Dell,Vostro,15.6 Inches,16 GB,80 TB,Core i5,Windows 11 Home,"52,490",3.5,31 ratings,Not available,Integrated
+Dell,Vostro,14 Inches,8 GB,Null,Core i5,Windows 11 Home,"45,990",3.7,96 ratings,Intel,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Ryzen 3,Windows 11 Home,"33,990",4.3,31 ratings,Not available,Integrated
+HP,15-fa1319X,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"79,990",4.0,42 ratings,Not available,Dedicated
+HP,15-fa1307TX,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"67,990",3.4,29 ratings,Not available,Dedicated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"56,990",3.6,13 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Core i3,Windows 11 Home,"35,490",3.4,41 ratings,Not available,Integrated
+Dell,Inspiron 3520,15.6 Inches,16 GB,16 GB,Core i5,Windows 11 Home,"49,750",3.8,38 ratings,Not available,Integrated
+HP,Laptop,40.9,16 GB,1 TB,Ryzen 7,Windows 11 Home,"1,11,990",4.0,116 ratings,Not available,Dedicated
+HP,HP,15.6 Inches,8 GB,1 TB,Intel Core i5,Windows 11 Home,"50,990",3.0,6 ratings,Not available,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"47,999",4.0,101 ratings,Not available,Integrated
+HP,HP Laptop,14 Inches,8 GB,512 GB,Intel Core i3,Windows 11 Home,"36,850",4.1,"1,170 ratings",Not available,Integrated
+HP,15-fa1333tx,39.6 Centimetres,16 GB,1 TB,Intel Core i7,Windows 11 Home,"1,04,990",5.0,2 ratings,Not available,Dedicated
+HP,HP Pavilion,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"62,490",4.3,"2,009 ratings",Not available,Integrated
+HP,15s-fy5010TU,15.6 Inches,8 GB,256 GB,Intel Core i3,Windows 11 Home,"35,990",Null,Null,Not available,Integrated
+HP,Laptop,39.6 Centimetres,16 GB,512 GB,Core i7,Windows 11 Home,"89,990",4.1,7 ratings,Not available,Dedicated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Ryzen 3,Windows 11 Home,"31,800",4.0,54 ratings,Not available,Integrated
+Dell,Latitue 5490,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.1,702 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"66,990",2.9,6 ratings,Not available,Integrated
+Dell,Vostro 3430,14 Inches,8 GB,Null,Core i3,Windows 11 Home,"37,990",4.1,31 ratings,Not available,Integrated
+HP,15-fa1317X,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"83,990",3.9,28 ratings,Not available,Dedicated
+HP,14-ew0116TU,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"68,990",3.9,18 ratings,Not available,Integrated
+Dell,5490-cr,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.6,494 ratings,Not available,Integrated
+HP,15s-fq3066TU,39.6 Centimetres,8 GB,512 GB,Celeron N,Windows 11 Home,"27,990",3.1,61 ratings,Not available,Integrated
+Dell,Vostro,15.6 Inches,16 GB,80 TB,Core i5,Windows 11 Home,"52,490",3.5,31 ratings,Not available,Integrated
+Dell,Vostro,14 Inches,8 GB,Null,Core i5,Windows 11 Home,"45,990",3.7,96 ratings,Intel,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Ryzen 3,Windows 11 Home,"33,990",4.3,31 ratings,Not available,Integrated
+HP,15-fa1319X,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"79,990",4.0,42 ratings,Not available,Dedicated
+HP,15-fa1307TX,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"67,990",3.4,29 ratings,Not available,Dedicated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"56,990",3.6,13 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Core i3,Windows 11 Home,"35,490",3.4,41 ratings,Not available,Integrated
+Dell,Inspiron 3520,15.6 Inches,16 GB,16 GB,Core i5,Windows 11 Home,"49,750",3.8,38 ratings,Not available,Integrated
+HP,Laptop,40.9,16 GB,1 TB,Ryzen 7,Windows 11 Home,"1,11,990",4.0,116 ratings,Not available,Dedicated
+HP,HP,15.6 Inches,8 GB,1 TB,Intel Core i5,Windows 11 Home,"50,990",3.0,6 ratings,Not available,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"47,999",4.0,101 ratings,Not available,Integrated
+HP,15-fa1333tx,39.6 Centimetres,16 GB,1 TB,Intel Core i7,Windows 11 Home,"1,04,990",5.0,2 ratings,Not available,Dedicated
+HP,HP Laptop,14 Inches,8 GB,512 GB,Intel Core i3,Windows 11 Home,"36,850",4.1,"1,170 ratings",Not available,Integrated
+HP,HP Pavilion,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"62,490",4.3,"2,009 ratings",Not available,Integrated
+HP,15s-fy5010TU,15.6 Inches,8 GB,256 GB,Intel Core i3,Windows 11 Home,"35,990",Null,Null,Not available,Integrated
+HP,Laptop,39.6 Centimetres,16 GB,512 GB,Core i7,Windows 11 Home,"89,990",4.1,7 ratings,Not available,Dedicated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Ryzen 3,Windows 11 Home,"31,800",4.0,54 ratings,Not available,Integrated
+Dell,Latitue 5490,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.1,702 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"66,990",2.9,6 ratings,Not available,Integrated
+Dell,Vostro 3430,14 Inches,8 GB,Null,Core i3,Windows 11 Home,"37,990",4.1,31 ratings,Not available,Integrated
+HP,15-fa1317X,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"83,990",3.9,28 ratings,Not available,Dedicated
+HP,14-ew0116TU,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"68,990",3.9,18 ratings,Not available,Integrated
+Dell,5490-cr,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.6,494 ratings,Not available,Integrated
+HP,15s-fq3066TU,39.6 Centimetres,8 GB,512 GB,Celeron N,Windows 11 Home,"27,990",3.1,61 ratings,Not available,Integrated
+Dell,Vostro,15.6 Inches,16 GB,80 TB,Core i5,Windows 11 Home,"52,490",3.5,31 ratings,Not available,Integrated
+Dell,Vostro,14 Inches,8 GB,Null,Core i5,Windows 11 Home,"45,990",3.7,96 ratings,Intel,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Ryzen 3,Windows 11 Home,"33,990",4.3,31 ratings,Not available,Integrated
+HP,15-fa1319X,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"79,990",4.0,42 ratings,Not available,Dedicated
+HP,15-fa1307TX,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"67,990",3.4,29 ratings,Not available,Dedicated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"56,990",3.6,13 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Core i3,Windows 11 Home,"35,490",3.4,41 ratings,Not available,Integrated
+Dell,Inspiron 3520,15.6 Inches,16 GB,16 GB,Core i5,Windows 11 Home,"49,750",3.8,38 ratings,Not available,Integrated
+HP,Laptop,40.9,16 GB,1 TB,Ryzen 7,Windows 11 Home,"1,11,990",4.0,116 ratings,Not available,Dedicated
+HP,HP,15.6 Inches,8 GB,1 TB,Intel Core i5,Windows 11 Home,"50,990",3.0,6 ratings,Not available,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"47,999",4.0,101 ratings,Not available,Integrated
+HP,15-fa1333tx,39.6 Centimetres,16 GB,1 TB,Intel Core i7,Windows 11 Home,"1,04,990",5.0,2 ratings,Not available,Dedicated
+HP,HP Laptop,14 Inches,8 GB,512 GB,Intel Core i3,Windows 11 Home,"36,850",4.1,"1,170 ratings",Not available,Integrated
+HP,HP Pavilion,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"62,490",4.3,"2,009 ratings",Not available,Integrated
+HP,15s-fy5010TU,15.6 Inches,8 GB,256 GB,Intel Core i3,Windows 11 Home,"35,990",Null,Null,Not available,Integrated
+HP,Laptop,39.6 Centimetres,16 GB,512 GB,Core i7,Windows 11 Home,"89,990",4.1,7 ratings,Not available,Dedicated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Ryzen 3,Windows 11 Home,"31,800",4.0,54 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"66,990",2.9,6 ratings,Not available,Integrated
+Dell,Latitue 5490,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.1,702 ratings,Not available,Integrated
+Dell,Vostro 3430,14 Inches,8 GB,Null,Core i3,Windows 11 Home,"37,990",4.1,31 ratings,Not available,Integrated
+HP,15-fa1317X,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"83,990",3.9,28 ratings,Not available,Dedicated
+HP,14-ew0116TU,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"68,990",3.9,18 ratings,Not available,Integrated
+Dell,5490-cr,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.6,494 ratings,Not available,Integrated
+HP,15s-fq3066TU,39.6 Centimetres,8 GB,512 GB,Celeron N,Windows 11 Home,"27,990",3.1,61 ratings,Not available,Integrated
+Dell,Vostro,15.6 Inches,16 GB,80 TB,Core i5,Windows 11 Home,"52,490",3.5,31 ratings,Not available,Integrated
+Dell,Vostro,14 Inches,8 GB,Null,Core i5,Windows 11 Home,"45,990",3.7,96 ratings,Intel,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Ryzen 3,Windows 11 Home,"33,990",4.3,31 ratings,Not available,Integrated
+HP,15-fa1319X,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"79,990",4.0,42 ratings,Not available,Dedicated
+HP,15-fa1307TX,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"67,990",3.4,29 ratings,Not available,Dedicated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"56,990",3.6,13 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Core i3,Windows 11 Home,"35,490",3.4,41 ratings,Not available,Integrated
+Dell,Inspiron 3520,15.6 Inches,16 GB,16 GB,Core i5,Windows 11 Home,"49,750",3.8,38 ratings,Not available,Integrated
+HP,Laptop,40.9,16 GB,1 TB,Ryzen 7,Windows 11 Home,"1,11,990",4.0,116 ratings,Not available,Dedicated
+HP,HP,15.6 Inches,8 GB,1 TB,Intel Core i5,Windows 11 Home,"50,990",3.0,6 ratings,Not available,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"47,999",4.0,101 ratings,Not available,Integrated
+HP,15-fa1333tx,39.6 Centimetres,16 GB,1 TB,Intel Core i7,Windows 11 Home,"1,04,990",5.0,2 ratings,Not available,Dedicated
+HP,HP Laptop,14 Inches,8 GB,512 GB,Intel Core i3,Windows 11 Home,"36,850",4.1,"1,170 ratings",Not available,Integrated
+HP,HP Pavilion,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"62,490",4.3,"2,009 ratings",Not available,Integrated
+HP,15s-fy5010TU,15.6 Inches,8 GB,256 GB,Intel Core i3,Windows 11 Home,"35,990",Null,Null,Not available,Integrated
+HP,Laptop,39.6 Centimetres,16 GB,512 GB,Core i7,Windows 11 Home,"89,990",4.1,7 ratings,Not available,Dedicated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Ryzen 3,Windows 11 Home,"31,800",4.0,54 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"66,990",2.9,6 ratings,Not available,Integrated
+Dell,Latitue 5490,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.1,702 ratings,Not available,Integrated
+Dell,Vostro 3430,14 Inches,8 GB,Null,Core i3,Windows 11 Home,"37,990",4.1,31 ratings,Not available,Integrated
+HP,15-fa1317X,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"83,990",3.9,28 ratings,Not available,Dedicated
+HP,14-ew0116TU,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"68,990",3.9,18 ratings,Not available,Integrated
+Dell,5490-cr,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.6,494 ratings,Not available,Integrated
+HP,15s-fq3066TU,39.6 Centimetres,8 GB,512 GB,Celeron N,Windows 11 Home,"27,990",3.1,61 ratings,Not available,Integrated
+Dell,Vostro,15.6 Inches,16 GB,80 TB,Core i5,Windows 11 Home,"52,490",3.5,31 ratings,Not available,Integrated
+Dell,Vostro,14 Inches,8 GB,Null,Core i5,Windows 11 Home,"45,990",3.7,96 ratings,Intel,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Ryzen 3,Windows 11 Home,"33,990",4.3,31 ratings,Not available,Integrated
+HP,15-fa1319X,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"79,990",4.0,42 ratings,Not available,Dedicated
+HP,15-fa1307TX,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"67,990",3.4,29 ratings,Not available,Dedicated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"56,990",3.6,13 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Core i3,Windows 11 Home,"35,490",3.4,41 ratings,Not available,Integrated
+Dell,Inspiron 3520,15.6 Inches,16 GB,16 GB,Core i5,Windows 11 Home,"49,750",3.8,38 ratings,Not available,Integrated
+HP,Laptop,40.9,16 GB,1 TB,Ryzen 7,Windows 11 Home,"1,11,990",4.0,116 ratings,Not available,Dedicated
+HP,HP,15.6 Inches,8 GB,1 TB,Intel Core i5,Windows 11 Home,"50,990",3.0,6 ratings,Not available,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"47,999",4.0,101 ratings,Not available,Integrated
+HP,15-fa1333tx,39.6 Centimetres,16 GB,1 TB,Intel Core i7,Windows 11 Home,"1,04,990",5.0,2 ratings,Not available,Dedicated
+HP,HP Laptop,14 Inches,8 GB,512 GB,Intel Core i3,Windows 11 Home,"36,850",4.1,"1,170 ratings",Not available,Integrated
+HP,HP Pavilion,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"62,490",4.3,"2,009 ratings",Not available,Integrated
+HP,15s-fy5010TU,15.6 Inches,8 GB,256 GB,Intel Core i3,Windows 11 Home,"35,990",Null,Null,Not available,Integrated
+HP,Laptop,39.6 Centimetres,16 GB,512 GB,Core i7,Windows 11 Home,"89,990",4.1,7 ratings,Not available,Dedicated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Ryzen 3,Windows 11 Home,"31,800",4.0,54 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"66,990",2.9,6 ratings,Not available,Integrated
+Dell,Latitue 5490,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.1,702 ratings,Not available,Integrated
+Dell,Vostro 3430,14 Inches,8 GB,Null,Core i3,Windows 11 Home,"37,990",4.1,31 ratings,Not available,Integrated
+HP,15-fa1317X,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"83,990",3.9,28 ratings,Not available,Dedicated
+HP,14-ew0116TU,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"68,990",3.9,18 ratings,Not available,Integrated
+Dell,5490-cr,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.6,494 ratings,Not available,Integrated
+HP,15s-fq3066TU,39.6 Centimetres,8 GB,512 GB,Celeron N,Windows 11 Home,"27,990",3.1,61 ratings,Not available,Integrated
+Dell,Vostro,15.6 Inches,16 GB,80 TB,Core i5,Windows 11 Home,"52,490",3.5,31 ratings,Not available,Integrated
+Dell,Vostro,14 Inches,8 GB,Null,Core i5,Windows 11 Home,"45,990",3.7,96 ratings,Intel,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Ryzen 3,Windows 11 Home,"33,990",4.3,31 ratings,Not available,Integrated
+HP,15-fa1319X,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"79,990",4.0,42 ratings,Not available,Dedicated
+HP,15-fa1307TX,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"67,990",3.4,29 ratings,Not available,Dedicated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"56,990",3.6,13 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Core i3,Windows 11 Home,"35,490",3.4,41 ratings,Not available,Integrated
+Dell,Inspiron 3520,15.6 Inches,16 GB,16 GB,Core i5,Windows 11 Home,"49,750",3.8,38 ratings,Not available,Integrated
+HP,Laptop,40.9,16 GB,1 TB,Ryzen 7,Windows 11 Home,"1,11,990",4.0,116 ratings,Not available,Dedicated
+HP,HP,15.6 Inches,8 GB,1 TB,Intel Core i5,Windows 11 Home,"50,990",3.0,6 ratings,Not available,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"47,999",4.0,101 ratings,Not available,Integrated
+HP,15-fa1333tx,39.6 Centimetres,16 GB,1 TB,Intel Core i7,Windows 11 Home,"1,04,990",5.0,2 ratings,Not available,Dedicated
+HP,HP Laptop,14 Inches,8 GB,512 GB,Intel Core i3,Windows 11 Home,"36,850",4.1,"1,170 ratings",Not available,Integrated
+HP,HP Pavilion,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"62,490",4.3,"2,009 ratings",Not available,Integrated
+HP,15s-fy5010TU,15.6 Inches,8 GB,256 GB,Intel Core i3,Windows 11 Home,"35,990",Null,Null,Not available,Integrated
+HP,Laptop,39.6 Centimetres,16 GB,512 GB,Core i7,Windows 11 Home,"89,990",4.1,7 ratings,Not available,Dedicated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Ryzen 3,Windows 11 Home,"31,800",4.0,54 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"66,990",2.9,6 ratings,Not available,Integrated
+Dell,Latitue 5490,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.1,702 ratings,Not available,Integrated
+Dell,Vostro 3430,14 Inches,8 GB,Null,Core i3,Windows 11 Home,"37,990",4.1,31 ratings,Not available,Integrated
+HP,15-fa1317X,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"83,990",3.9,28 ratings,Not available,Dedicated
+HP,14-ew0116TU,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"68,990",3.9,18 ratings,Not available,Integrated
+Dell,5490-cr,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.6,494 ratings,Not available,Integrated
+HP,15s-fq3066TU,39.6 Centimetres,8 GB,512 GB,Celeron N,Windows 11 Home,"27,990",3.1,61 ratings,Not available,Integrated
+Dell,Vostro,15.6 Inches,16 GB,80 TB,Core i5,Windows 11 Home,"52,490",3.5,31 ratings,Not available,Integrated
+Dell,Vostro,14 Inches,8 GB,Null,Core i5,Windows 11 Home,"45,990",3.7,96 ratings,Intel,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Ryzen 3,Windows 11 Home,"33,990",4.3,31 ratings,Not available,Integrated
+HP,15-fa1319X,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"79,990",4.0,42 ratings,Not available,Dedicated
+HP,15-fa1307TX,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"67,990",3.4,29 ratings,Not available,Dedicated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"56,990",3.6,13 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Core i3,Windows 11 Home,"35,490",3.4,41 ratings,Not available,Integrated
+Dell,Inspiron 3520,15.6 Inches,16 GB,16 GB,Core i5,Windows 11 Home,"49,750",3.8,38 ratings,Not available,Integrated
+HP,Laptop,40.9,16 GB,1 TB,Ryzen 7,Windows 11 Home,"1,11,990",4.0,116 ratings,Not available,Dedicated
+HP,HP,15.6 Inches,8 GB,1 TB,Intel Core i5,Windows 11 Home,"50,990",3.0,6 ratings,Not available,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"47,999",4.0,101 ratings,Not available,Integrated
+HP,15-fa1333tx,39.6 Centimetres,16 GB,1 TB,Intel Core i7,Windows 11 Home,"1,04,990",5.0,2 ratings,Not available,Dedicated
+HP,HP Laptop,14 Inches,8 GB,512 GB,Intel Core i3,Windows 11 Home,"36,850",4.1,"1,170 ratings",Not available,Integrated
+HP,HP Pavilion,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"62,490",4.3,"2,009 ratings",Not available,Integrated
+HP,15s-fy5010TU,15.6 Inches,8 GB,256 GB,Intel Core i3,Windows 11 Home,"35,990",Null,Null,Not available,Integrated
+HP,Laptop,39.6 Centimetres,16 GB,512 GB,Core i7,Windows 11 Home,"89,990",4.1,7 ratings,Not available,Dedicated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Ryzen 3,Windows 11 Home,"31,800",4.0,54 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"66,990",2.9,6 ratings,Not available,Integrated
+Dell,Latitue 5490,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.1,702 ratings,Not available,Integrated
+Dell,Vostro 3430,14 Inches,8 GB,Null,Core i3,Windows 11 Home,"37,990",4.1,31 ratings,Not available,Integrated
+HP,15-fa1317X,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"83,990",3.9,28 ratings,Not available,Dedicated
+HP,14-ew0116TU,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"68,990",3.9,18 ratings,Not available,Integrated
+Dell,5490-cr,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.6,494 ratings,Not available,Integrated
+HP,15s-fq3066TU,39.6 Centimetres,8 GB,512 GB,Celeron N,Windows 11 Home,"27,990",3.1,61 ratings,Not available,Integrated
+Dell,Vostro,15.6 Inches,16 GB,80 TB,Core i5,Windows 11 Home,"52,490",3.5,31 ratings,Not available,Integrated
+Dell,Vostro,14 Inches,8 GB,Null,Core i5,Windows 11 Home,"45,990",3.7,96 ratings,Intel,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Ryzen 3,Windows 11 Home,"33,990",4.3,31 ratings,Not available,Integrated
+HP,15-fa1319X,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"79,990",4.0,42 ratings,Not available,Dedicated
+HP,15-fa1307TX,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"67,990",3.4,29 ratings,Not available,Dedicated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"56,990",3.6,13 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Core i3,Windows 11 Home,"35,490",3.4,41 ratings,Not available,Integrated
+Dell,Inspiron 3520,15.6 Inches,16 GB,16 GB,Core i5,Windows 11 Home,"49,750",3.8,38 ratings,Not available,Integrated
+HP,Laptop,40.9,16 GB,1 TB,Ryzen 7,Windows 11 Home,"1,11,990",4.0,116 ratings,Not available,Dedicated
+HP,HP,15.6 Inches,8 GB,1 TB,Intel Core i5,Windows 11 Home,"50,990",3.0,6 ratings,Not available,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"47,999",4.0,101 ratings,Not available,Integrated
+HP,15-fa1333tx,39.6 Centimetres,16 GB,1 TB,Intel Core i7,Windows 11 Home,"1,04,990",5.0,2 ratings,Not available,Dedicated
+HP,HP Laptop,14 Inches,8 GB,512 GB,Intel Core i3,Windows 11 Home,"36,850",4.1,"1,170 ratings",Not available,Integrated
+HP,HP Pavilion,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"62,490",4.3,"2,009 ratings",Not available,Integrated
+HP,15s-fy5010TU,15.6 Inches,8 GB,256 GB,Intel Core i3,Windows 11 Home,"35,990",Null,Null,Not available,Integrated
+HP,Laptop,39.6 Centimetres,16 GB,512 GB,Core i7,Windows 11 Home,"89,990",4.1,7 ratings,Not available,Dedicated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Ryzen 3,Windows 11 Home,"31,800",4.0,54 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"66,990",2.9,6 ratings,Not available,Integrated
+Dell,Latitue 5490,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.1,702 ratings,Not available,Integrated
+Dell,Vostro 3430,14 Inches,8 GB,Null,Core i3,Windows 11 Home,"37,990",4.1,31 ratings,Not available,Integrated
+HP,15-fa1317X,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"83,990",3.9,28 ratings,Not available,Dedicated
+HP,14-ew0116TU,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"68,990",3.9,18 ratings,Not available,Integrated
+Dell,5490-cr,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.6,494 ratings,Not available,Integrated
+HP,15s-fq3066TU,39.6 Centimetres,8 GB,512 GB,Celeron N,Windows 11 Home,"27,990",3.1,61 ratings,Not available,Integrated
+Dell,Vostro,15.6 Inches,16 GB,80 TB,Core i5,Windows 11 Home,"52,490",3.5,31 ratings,Not available,Integrated
+Dell,Vostro,14 Inches,8 GB,Null,Core i5,Windows 11 Home,"45,990",3.7,96 ratings,Intel,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Ryzen 3,Windows 11 Home,"33,990",4.3,31 ratings,Not available,Integrated
+HP,15-fa1319X,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"79,990",4.0,42 ratings,Not available,Dedicated
+HP,15-fa1307TX,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"67,990",3.4,29 ratings,Not available,Dedicated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"56,990",3.6,13 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Core i3,Windows 11 Home,"35,490",3.4,41 ratings,Not available,Integrated
+Dell,Inspiron 3520,15.6 Inches,16 GB,16 GB,Core i5,Windows 11 Home,"49,750",3.8,38 ratings,Not available,Integrated
+HP,Laptop,40.9,16 GB,1 TB,Ryzen 7,Windows 11 Home,"1,11,990",4.0,116 ratings,Not available,Dedicated
+HP,HP,15.6 Inches,8 GB,1 TB,Intel Core i5,Windows 11 Home,"50,990",3.0,6 ratings,Not available,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"47,999",4.0,101 ratings,Not available,Integrated
+HP,15-fa1333tx,39.6 Centimetres,16 GB,1 TB,Intel Core i7,Windows 11 Home,"1,04,990",5.0,2 ratings,Not available,Dedicated
+HP,HP Laptop,14 Inches,8 GB,512 GB,Intel Core i3,Windows 11 Home,"36,850",4.1,"1,170 ratings",Not available,Integrated
+HP,HP Pavilion,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"62,490",4.3,"2,009 ratings",Not available,Integrated
+HP,15s-fy5010TU,15.6 Inches,8 GB,256 GB,Intel Core i3,Windows 11 Home,"35,990",Null,Null,Not available,Integrated
+HP,Laptop,39.6 Centimetres,16 GB,512 GB,Core i7,Windows 11 Home,"89,990",4.1,7 ratings,Not available,Dedicated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Ryzen 3,Windows 11 Home,"31,800",4.0,54 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"66,990",2.9,6 ratings,Not available,Integrated
+Dell,Latitue 5490,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.1,702 ratings,Not available,Integrated
+Dell,Vostro 3430,14 Inches,8 GB,Null,Core i3,Windows 11 Home,"37,990",4.1,31 ratings,Not available,Integrated
+HP,15-fa1317X,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"83,990",3.9,28 ratings,Not available,Dedicated
+HP,14-ew0116TU,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"68,990",3.9,18 ratings,Not available,Integrated
+Dell,5490-cr,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.6,494 ratings,Not available,Integrated
+HP,15s-fq3066TU,39.6 Centimetres,8 GB,512 GB,Celeron N,Windows 11 Home,"27,990",3.1,61 ratings,Not available,Integrated
+Dell,Vostro,15.6 Inches,16 GB,80 TB,Core i5,Windows 11 Home,"52,490",3.5,31 ratings,Not available,Integrated
+Dell,Vostro,14 Inches,8 GB,Null,Core i5,Windows 11 Home,"45,990",3.7,96 ratings,Intel,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Ryzen 3,Windows 11 Home,"33,990",4.3,31 ratings,Not available,Integrated
+HP,15-fa1319X,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"79,990",4.0,42 ratings,Not available,Dedicated
+HP,15-fa1307TX,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"67,990",3.4,29 ratings,Not available,Dedicated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"56,990",3.6,13 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Core i3,Windows 11 Home,"35,490",3.4,41 ratings,Not available,Integrated
+Dell,Inspiron 3520,15.6 Inches,16 GB,16 GB,Core i5,Windows 11 Home,"49,750",3.8,38 ratings,Not available,Integrated
+HP,Laptop,40.9,16 GB,1 TB,Ryzen 7,Windows 11 Home,"1,11,990",4.0,116 ratings,Not available,Dedicated
+HP,HP,15.6 Inches,8 GB,1 TB,Intel Core i5,Windows 11 Home,"50,990",3.0,6 ratings,Not available,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"47,999",4.0,101 ratings,Not available,Integrated
+HP,15-fa1333tx,39.6 Centimetres,16 GB,1 TB,Intel Core i7,Windows 11 Home,"1,04,990",5.0,2 ratings,Not available,Dedicated
+HP,HP Laptop,14 Inches,8 GB,512 GB,Intel Core i3,Windows 11 Home,"36,850",4.1,"1,170 ratings",Not available,Integrated
+HP,HP Pavilion,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"62,490",4.3,"2,009 ratings",Not available,Integrated
+HP,15s-fy5010TU,15.6 Inches,8 GB,256 GB,Intel Core i3,Windows 11 Home,"35,990",Null,Null,Not available,Integrated
+HP,Laptop,39.6 Centimetres,16 GB,512 GB,Core i7,Windows 11 Home,"89,990",4.1,7 ratings,Not available,Dedicated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Ryzen 3,Windows 11 Home,"31,800",4.0,54 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"66,990",2.9,6 ratings,Not available,Integrated
+Dell,Latitue 5490,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.1,702 ratings,Not available,Integrated
+Dell,Vostro 3430,14 Inches,8 GB,Null,Core i3,Windows 11 Home,"37,990",4.1,31 ratings,Not available,Integrated
+HP,15-fa1317X,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"83,990",3.9,28 ratings,Not available,Dedicated
+HP,14-ew0116TU,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"68,990",3.9,18 ratings,Not available,Integrated
+Dell,5490-cr,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.6,494 ratings,Not available,Integrated
+HP,15s-fq3066TU,39.6 Centimetres,8 GB,512 GB,Celeron N,Windows 11 Home,"27,990",3.1,61 ratings,Not available,Integrated
+Dell,Vostro,15.6 Inches,16 GB,80 TB,Core i5,Windows 11 Home,"52,490",3.5,31 ratings,Not available,Integrated
+Dell,Vostro,14 Inches,8 GB,Null,Core i5,Windows 11 Home,"45,990",3.7,96 ratings,Intel,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Ryzen 3,Windows 11 Home,"33,990",4.3,31 ratings,Not available,Integrated
+HP,15-fa1319X,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"79,990",4.0,42 ratings,Not available,Dedicated
+HP,15-fa1307TX,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"67,990",3.4,29 ratings,Not available,Dedicated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"56,990",3.6,13 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Core i3,Windows 11 Home,"35,490",3.4,41 ratings,Not available,Integrated
+HP,Laptop,40.9,16 GB,1 TB,Ryzen 7,Windows 11 Home,"1,11,990",4.0,116 ratings,Not available,Dedicated
+Dell,Inspiron 3520,15.6 Inches,16 GB,16 GB,Core i5,Windows 11 Home,"49,750",3.8,38 ratings,Not available,Integrated
+HP,HP,15.6 Inches,8 GB,1 TB,Intel Core i5,Windows 11 Home,"50,990",3.0,6 ratings,Not available,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"47,999",4.0,101 ratings,Not available,Integrated
+HP,15-fa1333tx,39.6 Centimetres,16 GB,1 TB,Intel Core i7,Windows 11 Home,"1,04,990",5.0,2 ratings,Not available,Dedicated
+HP,HP Laptop,14 Inches,8 GB,512 GB,Intel Core i3,Windows 11 Home,"36,850",4.1,"1,170 ratings",Not available,Integrated
+HP,HP Pavilion,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"62,490",4.3,"2,009 ratings",Not available,Integrated
+HP,15s-fy5010TU,15.6 Inches,8 GB,256 GB,Intel Core i3,Windows 11 Home,"35,990",Null,Null,Not available,Integrated
+HP,Laptop,39.6 Centimetres,16 GB,512 GB,Core i7,Windows 11 Home,"89,990",4.1,7 ratings,Not available,Dedicated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Ryzen 3,Windows 11 Home,"31,749",4.0,54 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"66,990",2.9,6 ratings,Not available,Integrated
+Dell,Latitue 5490,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.1,702 ratings,Not available,Integrated
+Dell,Vostro 3430,14 Inches,8 GB,Null,Core i3,Windows 11 Home,"37,990",4.1,31 ratings,Not available,Integrated
+HP,15-fa1317X,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"83,990",3.9,28 ratings,Not available,Dedicated
+HP,14-ew0116TU,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"68,990",3.9,18 ratings,Not available,Integrated
+Dell,5490-cr,14 Inches,16 GB,512 GB,Core i5 Family,Windows 10 Pro,Null,3.6,494 ratings,Not available,Integrated
+HP,15s-fq3066TU,39.6 Centimetres,8 GB,512 GB,Celeron N,Windows 11 Home,"27,990",3.1,61 ratings,Not available,Integrated
+Dell,Vostro,15.6 Inches,16 GB,80 TB,Core i5,Windows 11 Home,"52,490",3.5,31 ratings,Not available,Integrated
+Dell,Vostro,14 Inches,8 GB,Null,Core i5,Windows 11 Home,"45,990",3.7,96 ratings,Intel,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Ryzen 3,Windows 11 Home,"33,990",4.3,31 ratings,Not available,Integrated
+HP,15-fa1319X,39.6 Centimetres,16 GB,512 GB,Intel Core i5,Windows 11 Home,"79,990",4.0,42 ratings,Not available,Dedicated
+HP,15-fa1307TX,39.6 Centimetres,16 GB,1 TB,Intel Core i5,Windows 11 Home,"67,990",3.4,29 ratings,Not available,Dedicated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"56,990",3.6,13 ratings,Not available,Integrated
+HP,HP Laptop,39.6 Centimetres,8 GB,512 GB,Core i3,Windows 11 Home,"35,490",3.4,41 ratings,Not available,Integrated
+HP,Laptop,40.9,16 GB,1 TB,Ryzen 7,Windows 11 Home,"1,11,990",4.0,116 ratings,Not available,Dedicated
+Dell,Inspiron 3520,15.6 Inches,16 GB,16 GB,Core i5,Windows 11 Home,"49,750",3.8,38 ratings,Not available,Integrated
+HP,HP,15.6 Inches,8 GB,1 TB,Intel Core i5,Windows 11 Home,"50,990",3.0,6 ratings,Not available,Integrated
+HP,HP Laptop,15.6 Inches,8 GB,512 GB,Core i5,Windows 11 Home,"47,999",4.0,101 ratings,Not available,Integrated
+HP,15-fa1333tx,39.6 Centimetres,16 GB,1 TB,Intel Core i7,Windows 11 Home,"1,04,990",5.0,2 ratings,Not available,Dedicated
+HP,HP Laptop,14 Inches,8 GB,512 GB,Intel Core i3,Windows 11 Home,"36,850",4.1,"1,170 ratings",Not available,Integrated
+HP,HP Pavilion,14 Inches,16 GB,512 GB,Core i5,Windows 11 Home,"62,490",4.3,"2,009 ratings",Not available,Integrated
+HP,15s-fy5010TU,15.6 Inches,8 GB,256 GB,Intel Core i3,Windows 11 Home,"35,990",Null,Null,Not available,Integrated
+HP,Laptop,39.6 Centimetres,16 GB,512 GB,Core i7,Windows 11 Home,"89,990",4.1,7 ratings,Not available,Dedicated
